@@ -1,3 +1,6 @@
+<img width="720" height="646" alt="829724982_1715575816173930_6976507052100007380_n" src="https://github.com/user-attachments/assets/35724273-2513-4486-b7a9-19d3d2047f47" />
+
+
 # Red-Dead-Redemption-PS3-No-Water-Death-Mod
 A PS3 mod for Red Dead Redemption GOTY that disables John Marston's instant death in deep water. Tested on BLUS30758 Update 1.01 And a real ps3 hardware
 
